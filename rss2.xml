@@ -9,54 +9,28 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>记录</description>
-    <pubDate>Tue, 23 Mar 2021 22:18:00 GMT</pubDate>
+    <pubDate>Tue, 23 Mar 2021 22:37:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title></title>
-      <link>http://example.com/2021/03/24/test-my-site/</link>
-      <guid>http://example.com/2021/03/24/test-my-site/</guid>
-      <pubDate>Tue, 23 Mar 2021 20:50:24 GMT</pubDate>
-      
-      <description>&lt;hr&gt;
-&lt;p&gt;title:记录&lt;br&gt;description：关于我们&lt;br&gt;categories：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;杭州&lt;br&gt;tags：&lt;/li&gt;
-&lt;li&gt;2019&lt;/li&gt;
-&lt;li&gt;旅行&lt;br&gt;top：true&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h1 id=&quot;你看&quot;&gt;&lt;a href=&quot;#你看&quot; class=&quot;headerlink&quot; title=&quot;你看&quot;&gt;&lt;/a&gt;你看&lt;/h1&gt;&lt;p&gt;弟弟送给潇潇的网站&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://qqewukzeg.hd-bkt.clouddn.com/%E8%AE%B8%E6%84%BF%E6%A0%91.jpg&quot;&gt;&lt;/p&gt;
-&lt;p&gt;“</description>
-      
-      
-      
-      <content:encoded><![CDATA[<hr><p>title:记录<br>description：关于我们<br>categories：</p><ul><li>杭州<br>tags：</li><li>2019</li><li>旅行<br>top：true</li></ul><hr><h1 id="你看"><a href="#你看" class="headerlink" title="你看"></a>你看</h1><p>弟弟送给潇潇的网站</p><p><img src="http://qqewukzeg.hd-bkt.clouddn.com/%E8%AE%B8%E6%84%BF%E6%A0%91.jpg"></p><p>“<span id="more"></span>”</p><p>这个网站是潇潇的专属定制礼物</p><p>用来记录我们</p>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2021/03/24/test-my-site/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Hello World</title>
+      <title>记录</title>
       <link>http://example.com/2021/03/22/hello-world/</link>
       <guid>http://example.com/2021/03/22/hello-world/</guid>
       <pubDate>Mon, 22 Mar 2021 08:41:19 GMT</pubDate>
       
-        
-        
-      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</description>
-        
+      <description>关于我们</description>
       
       
       
-      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content:encoded>
+      <content:encoded><![CDATA[<h1 id="你看"><a href="#你看" class="headerlink" title="你看"></a>你看</h1><p>弟弟送给潇潇的网站</p><p><img src="http://qqewukzeg.hd-bkt.clouddn.com/%E8%AE%B8%E6%84%BF%E6%A0%91.jpg"></p><p>“<span id="more"></span>”</p><p>这个网站是潇潇的专属定制礼物</p><p>用来记录我们</p>]]></content:encoded>
       
       
+      <category domain="http://example.com/categories/%E6%9D%AD%E5%B7%9E/">杭州</category>
+      
+      
+      <category domain="http://example.com/tags/2019/">2019</category>
+      
+      <category domain="http://example.com/tags/%E6%97%85%E8%A1%8C/">旅行</category>
       
       
       <comments>http://example.com/2021/03/22/hello-world/#disqus_thread</comments>
