@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>记录</description>
-    <pubDate>Tue, 23 Mar 2021 22:12:37 GMT</pubDate>
+    <pubDate>Tue, 23 Mar 2021 22:18:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -19,7 +19,12 @@
       <pubDate>Tue, 23 Mar 2021 20:50:24 GMT</pubDate>
       
       <description>&lt;hr&gt;
-&lt;p&gt;title:记录&lt;br&gt;description：关于我们&lt;br&gt;categories：杭州&lt;br&gt;tags：旅行&lt;br&gt;top：true&lt;/p&gt;
+&lt;p&gt;title:记录&lt;br&gt;description：关于我们&lt;br&gt;categories：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;杭州&lt;br&gt;tags：&lt;/li&gt;
+&lt;li&gt;2019&lt;/li&gt;
+&lt;li&gt;旅行&lt;br&gt;top：true&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h1 id=&quot;你看&quot;&gt;&lt;a href=&quot;#你看&quot; class=&quot;headerlink&quot; title=&quot;你看&quot;&gt;&lt;/a&gt;你看&lt;/h1&gt;&lt;p&gt;弟弟送给潇潇的网站&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://qqewukzeg.hd-bkt.clouddn.com/%E8%AE%B8%E6%84%BF%E6%A0%91.jpg&quot;&gt;&lt;/p&gt;
@@ -27,7 +32,7 @@
       
       
       
-      <content:encoded><![CDATA[<hr><p>title:记录<br>description：关于我们<br>categories：杭州<br>tags：旅行<br>top：true</p><hr><h1 id="你看"><a href="#你看" class="headerlink" title="你看"></a>你看</h1><p>弟弟送给潇潇的网站</p><p><img src="http://qqewukzeg.hd-bkt.clouddn.com/%E8%AE%B8%E6%84%BF%E6%A0%91.jpg"></p><p>“<span id="more"></span>”</p><p>这个网站是潇潇的专属定制礼物</p><p>用来记录我们</p>]]></content:encoded>
+      <content:encoded><![CDATA[<hr><p>title:记录<br>description：关于我们<br>categories：</p><ul><li>杭州<br>tags：</li><li>2019</li><li>旅行<br>top：true</li></ul><hr><h1 id="你看"><a href="#你看" class="headerlink" title="你看"></a>你看</h1><p>弟弟送给潇潇的网站</p><p><img src="http://qqewukzeg.hd-bkt.clouddn.com/%E8%AE%B8%E6%84%BF%E6%A0%91.jpg"></p><p>“<span id="more"></span>”</p><p>这个网站是潇潇的专属定制礼物</p><p>用来记录我们</p>]]></content:encoded>
       
       
       
