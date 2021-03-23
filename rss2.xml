@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>记录</description>
-    <pubDate>Tue, 23 Mar 2021 20:50:24 GMT</pubDate>
+    <pubDate>Tue, 23 Mar 2021 21:14:58 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -19,13 +19,12 @@
       <pubDate>Tue, 23 Mar 2021 20:50:24 GMT</pubDate>
       
       <description>&lt;p&gt;弟弟送给潇潇的网站&lt;/p&gt;
-&lt;p&gt;弟弟送给潇潇的网站&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://qqewukzeg.hd-bkt.clouddn.com/%E8%AE%B8%E6%84%BF%E6%A0%91.jpg&quot;&gt;&lt;/p&gt;
 &lt;p&gt;“</description>
       
       
       
-      <content:encoded><![CDATA[<p>弟弟送给潇潇的网站</p><p>弟弟送给潇潇的网站</p><p><img src="http://qqewukzeg.hd-bkt.clouddn.com/%E8%AE%B8%E6%84%BF%E6%A0%91.jpg"></p><p>“<span id="more"></span>”</p><hr><p>title：记录<br>top：true<br>description：关于我们<br>tags： </p><ul><li>旅行</li><li>2019<br>categories：</li><li>杭州</li></ul><hr><p>这个网站是潇潇的专属定制礼物</p><p>用来记录我们</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>弟弟送给潇潇的网站</p><p><img src="http://qqewukzeg.hd-bkt.clouddn.com/%E8%AE%B8%E6%84%BF%E6%A0%91.jpg"></p><p>“<span id="more"></span>”</p><hr><p>title：记录<br>top：true<br>description：关于我们<br>tags： </p><ul><li>旅行</li><li>2019<br>categories：</li><li>杭州</li></ul><hr><p>这个网站是潇潇的专属定制礼物</p><p>用来记录我们</p>]]></content:encoded>
       
       
       
