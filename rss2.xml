@@ -9,23 +9,8 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>记录</description>
-    <pubDate>Mon, 22 Mar 2021 08:44:19 GMT</pubDate>
+    <pubDate>Mon, 22 Mar 2021 08:41:19 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title>test_my_site</title>
-      <link>http://example.com/2021/03/22/test-my-site/</link>
-      <guid>http://example.com/2021/03/22/test-my-site/</guid>
-      <pubDate>Mon, 22 Mar 2021 08:44:19 GMT</pubDate>
-      
-      
-      
-      
-      
-      
-      <comments>http://example.com/2021/03/22/test-my-site/#disqus_thread</comments>
-      
-    </item>
     
     <item>
       <title>Hello World</title>
