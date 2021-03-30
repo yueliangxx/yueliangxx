@@ -9,8 +9,31 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>记录</description>
-    <pubDate>Tue, 30 Mar 2021 09:29:15 GMT</pubDate>
+    <pubDate>Tue, 30 Mar 2021 09:46:16 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>通知</title>
+      <link>http://example.com/2021/03/30/%E9%80%9A%E7%9F%A5/</link>
+      <guid>http://example.com/2021/03/30/%E9%80%9A%E7%9F%A5/</guid>
+      <pubDate>Tue, 30 Mar 2021 09:44:50 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;网站备案过程域名绑定暂时关闭&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>网站备案过程域名绑定暂时关闭</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2021/03/30/%E9%80%9A%E7%9F%A5/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>记录</title>
