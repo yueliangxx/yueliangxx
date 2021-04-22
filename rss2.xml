@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>记录</description>
-    <pubDate>Thu, 22 Apr 2021 10:25:49 GMT</pubDate>
+    <pubDate>Thu, 22 Apr 2021 10:48:38 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -18,11 +18,11 @@
       <guid>http://example.com/category/hangzhou/</guid>
       <pubDate>Thu, 22 Apr 2021 09:05:15 GMT</pubDate>
       
-      <description>&lt;p&gt;还没开始写&lt;br&gt;&lt;img src=&quot;http://luna.yueliangxx.com/e22eae90a6fe9f4f49bcd3f4c6da03f.png&quot;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&quot;http://luna.yueliangxx.com/e22eae90a6fe9f4f49bcd3f4c6da03f.png&quot;&gt;&lt;/p&gt;</description>
       
       
       
-      <content:encoded><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>还没开始写<br><img src="http://luna.yueliangxx.com/e22eae90a6fe9f4f49bcd3f4c6da03f.png"></p><span id="more"></span><p>先这样</p><!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <title>音乐播放器插件</title>    <link rel="stylesheet" href="css/aplayer.min.css">    <style type="text/css">        #main{            width: 400px;            margin: 0 auto;        }    </style></head><body>    <div id="main">        <div id="aplayer"></div>    </div><script src="js/aplayer.min.js"></script><script>  var ap = new APlayer({      element: document.getElementById('aplayer'),      narrow: false,      /*自动播放，默认值为false，true为开启自动播放*/      autoplay: true,      showlrc: true,      /*lrc歌词显示方式,默认值为1,HTML显示方式，2为JavaScript字符串显示方式，3为lrc文件加载显示方式*/      lrcType: 3,      /*主题颜色*/      theme: '#00b5ad',      /*歌曲集合列表*/      audio:[          {              /*歌名*/              title: '红色高跟鞋',              /*作者*/              author: '杜航',              /*歌曲*/              url: 'https://music.163.com/#/song?id=864043623.mp3',              /*音乐专辑图片*/              pic: 'http://luna.yueliangxx.com/微信图片_20210422181441.jpg',              /*歌词*/              lrc: 'lrc/ainimeicha.lrc'          }      ]  });</script></body></html>]]></content:encoded>
+      <content:encoded><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="http://luna.yueliangxx.com/e22eae90a6fe9f4f49bcd3f4c6da03f.png"></p><span id="more"></span><p>看看</p><div class="aplayer" data-id="864043623" data-server=”netease" data-type="song" data-autoplay=”true” data-mode=”circulation”></div>]]></content:encoded>
       
       
       <category domain="http://example.com/categories/%E6%9D%AD%E5%B7%9E/">杭州</category>
