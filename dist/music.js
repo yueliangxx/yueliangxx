@@ -5,11 +5,16 @@ const ap = new APlayer({
     audio: [
 	 {
 		name: '红色高跟鞋',
-		artist: '红色高跟鞋',
-		url: 'http://music.163.com/song/media/outer/url?id=303963502.mp3',
+		artist: '杜航',
+		url: 'http://music.163.com/song/media/outer/url?id=864043623.mp3',
 		cover: 'http://p2.music.126.net/IZ5hcrme7k-xNG4gzw-NPg==/109951164627195322.jpg?',
-	    lrc: 'images/.lrc' 
 	 },
+	  {
+        name: '迪士尼在逃公主',
+        artist: '徐秉龙',
+        url: 'http://music.163.com/song/media/outer/url?id=1397679310.mp3',
+        cover: '<img src="http://p2.music.126.net/c2yS6qm0ukZTkgdSKlsNZA==/109951164528154947.jpg?',
+      },
 	  {
         name: '世间美好与你环环相扣',
         artist: '柏松',
