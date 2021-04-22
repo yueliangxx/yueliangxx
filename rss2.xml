@@ -14,8 +14,8 @@
     
     <item>
       <title>迪士尼之旅</title>
-      <link>http://example.com/2021/04/10/shanghai/</link>
-      <guid>http://example.com/2021/04/10/shanghai/</guid>
+      <link>http://example.com/category/shanghai/</link>
+      <guid>http://example.com/category/shanghai/</guid>
       <pubDate>Fri, 09 Apr 2021 18:55:46 GMT</pubDate>
       
       <description>&lt;h2 id=&quot;迪士尼的烟花秀&quot;&gt;&lt;a href=&quot;#迪士尼的烟花秀&quot; class=&quot;headerlink&quot; title=&quot;迪士尼的烟花秀&quot;&gt;&lt;/a&gt;迪士尼的烟花秀&lt;/h2&gt;&lt;p&gt;好像全世界一共只有六个迪士尼 所以别人都说一定要和喜欢的人一定要去一遍迪士尼 其实我本身对迪士尼是无感的 可就是因为这句话 让我产生了一定要带你去一遍迪士尼的决定&lt;br&gt;&lt;img src=&quot;http://luna.yueliangxx.com/aae90c4edb08066beaf5164a37eb79a.png&quot;&gt;&lt;/p&gt;</description>
@@ -33,14 +33,14 @@
       <category domain="http://example.com/tags/%E6%97%85%E8%A1%8C/">旅行</category>
       
       
-      <comments>http://example.com/2021/04/10/shanghai/#disqus_thread</comments>
+      <comments>http://example.com/category/shanghai/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>恋爱后第一次旅行</title>
-      <link>http://example.com/2021/03/30/weizhoudao/</link>
-      <guid>http://example.com/2021/03/30/weizhoudao/</guid>
+      <link>http://example.com/category/weizhoudao/</link>
+      <guid>http://example.com/category/weizhoudao/</guid>
       <pubDate>Tue, 30 Mar 2021 09:44:50 GMT</pubDate>
       
       <description>&lt;p&gt;前言&lt;/p&gt;
@@ -60,14 +60,14 @@
       <category domain="http://example.com/tags/%E6%97%85%E8%A1%8C/">旅行</category>
       
       
-      <comments>http://example.com/2021/03/30/weizhoudao/#disqus_thread</comments>
+      <comments>http://example.com/category/weizhoudao/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>记录</title>
-      <link>http://example.com/2021/03/22/hello-world/</link>
-      <guid>http://example.com/2021/03/22/hello-world/</guid>
+      <link>http://example.com/category/hello-world/</link>
+      <guid>http://example.com/category/hello-world/</guid>
       <pubDate>Mon, 22 Mar 2021 08:41:19 GMT</pubDate>
       
       <description>&lt;h1 id=&quot;你看&quot;&gt;&lt;a href=&quot;#你看&quot; class=&quot;headerlink&quot; title=&quot;你看&quot;&gt;&lt;/a&gt;你看&lt;/h1&gt;&lt;p&gt;弟弟送给潇潇的网站&lt;/p&gt;
@@ -86,7 +86,7 @@
       <category domain="http://example.com/tags/%E6%97%85%E8%A1%8C/">旅行</category>
       
       
-      <comments>http://example.com/2021/03/22/hello-world/#disqus_thread</comments>
+      <comments>http://example.com/category/hello-world/#disqus_thread</comments>
       
     </item>
     
