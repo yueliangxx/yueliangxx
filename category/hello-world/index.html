@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="/css/main.css">
 
-
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Noto Serif:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.css">
 
@@ -85,6 +85,11 @@
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage">
+<!-- 音频播放 -->
+<link rel="stylesheet" href="/dist/APlayer.min.css">
+<div id="aplayer"></div>
+<script type="text/javascript" src="/dist/APlayer.min.js"></script>
+<script type="text/javascript" src="/dist/music.js"></script>
   <div class="container use-motion">
     <div class="headband"></div>
 
@@ -286,6 +291,16 @@
     
     
     
+
+<div>
+  
+    <div>
+    
+        <div style="text-align:center;color: #ccc;font-size:14px;">-------------浪漫就像月亮永远不死<i class="fa fa-paw"></i>本文结束啦-------------</div>
+    
+</div>
+  
+</div>
         
 
   <div class="followme">
@@ -318,8 +333,8 @@
 
       <footer class="post-footer">
           <div class="post-tags">
-              <a href="/tags/2019/" rel="tag"># 2019</a>
-              <a href="/tags/%E6%97%85%E8%A1%8C/" rel="tag"># 旅行</a>
+              <a href="/tags/2019/" rel="tag"><i class="fa fa-tag"></i># 2019</a>
+              <a href="/tags/%E6%97%85%E8%A1%8C/" rel="tag"><i class="fa fa-tag"></i># 旅行</a>
           </div>
 
         
@@ -411,7 +426,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">3</span>
+          <span class="site-state-item-count">4</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -436,7 +451,11 @@
 
     </div>
   </aside>
-  <div id="sidebar-dimmer"></div>
+  <div id="music163player">
+    
+    </iframe>
+</div>
+
 
 
       </div>
@@ -459,8 +478,6 @@
   </span>
   <span class="author" itemprop="copyrightHolder">弟弟</span>
 </div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
 
 
     <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
