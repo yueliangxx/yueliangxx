@@ -13,13 +13,13 @@ const ap = new APlayer({
         name: '迪士尼在逃公主',
         artist: '徐秉龙',
         url: 'http://music.163.com/song/media/outer/url?id=1397679310.mp3',
-        cover: '<img src="http://p2.music.126.net/c2yS6qm0ukZTkgdSKlsNZA==/109951164528154947.jpg?',
+        cover: 'http://p2.music.126.net/c2yS6qm0ukZTkgdSKlsNZA==/109951164528154947.jpg?',
       },
 	  {
-        name: '世间美好与你环环相扣',
-        artist: '柏松',
-        url: 'http://music.163.com/song/media/outer/url?id=1363948882.mp3',
-        cover: 'http://p1.music.126.net/DK1_4sP_339o5rowMdPXdw==/109951164071024476.jpg?',
+        name: '没有意外（女声版）',
+        artist: '碳水化合潘',
+        url: 'http://music.163.com/song/media/outer/url?id=1348995355.mp3',
+        cover: 'http://p2.music.126.net/PcCfI0YGLYEaHRzJNBvkrg==/109951163893021871.jpg?',
       },
     ]
 });
