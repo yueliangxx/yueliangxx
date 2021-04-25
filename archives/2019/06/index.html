@@ -30,14 +30,14 @@
   <meta name="description" content="记录">
 <meta property="og:type" content="website">
 <meta property="og:title" content="月亮不失眠了">
-<meta property="og:url" content="http://example.com/archives/2021/04/index.html">
+<meta property="og:url" content="http://example.com/archives/2019/06/index.html">
 <meta property="og:site_name" content="月亮不失眠了">
 <meta property="og:description" content="记录">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:author" content="弟弟">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="http://example.com/archives/2021/04/">
+<link rel="canonical" href="http://example.com/archives/2019/06/">
 
 
 <script id="page-configurations">
@@ -145,6 +145,11 @@
     <a href="/about/" rel="section"><i class="user fa-fw"></i>关于</a>
 
   </li>
+        <li class="menu-item menu-item-相册">
+
+    <a href="/gallery/" rel="section"><i class="paint-brush fa-fw"></i>相册</a>
+
+  </li>
       <li class="menu-item menu-item-search">
         <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
         </a>
@@ -207,7 +212,7 @@
 
       
     <div class="collection-year">
-      <span class="collection-header">2021</span>
+      <span class="collection-header">2019</span>
     </div>
 
   <article itemscope itemtype="http://schema.org/Article">
@@ -215,95 +220,15 @@
 
       <div class="post-meta">
         <time itemprop="dateCreated"
-              datetime="2021-04-25T03:39:08+08:00"
-              content="2021-04-25">
-          04-25
+              datetime="2019-06-18T22:07:08+08:00"
+              content="2019-06-18">
+          06-18
         </time>
       </div>
 
       <div class="post-title">
-          <a class="post-title-link" href="/category/zq/" itemprop="url">
-            <span itemprop="name">你和中秋月圆一般 让我想入非非</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2021-04-25T00:27:29+08:00"
-              content="2021-04-25">
-          04-25
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/category/20191/" itemprop="url">
-            <span itemprop="name">暑假日常</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2021-04-24T23:07:52+08:00"
-              content="2021-04-24">
-          04-24
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/category/wuzhen/" itemprop="url">
-            <span itemprop="name">枕水江南乌镇</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2021-04-22T17:05:15+08:00"
-              content="2021-04-22">
-          04-22
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/category/hangzhou/" itemprop="url">
-            <span itemprop="name">飞往杭州</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2021-04-10T02:55:46+08:00"
-              content="2021-04-10">
-          04-10
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/category/shanghai/" itemprop="url">
-            <span itemprop="name">迪士尼之旅</span>
+          <a class="post-title-link" href="/category/weizhoudao/" itemprop="url">
+            <span itemprop="name">恋爱后第一次旅行</span>
           </a>
       </div>
 
@@ -424,6 +349,9 @@
         
 
         
+<span>   |   </span>
+<span id="showDays"></span>
+lx | tt
   <div class="beian"><a href="https://beian.miit.gov.cn/" rel="noopener" target="_blank">粤ICP备2021039678号 </a>
   </div>
 
@@ -466,6 +394,31 @@ $(document).ready(function() {
        	
 });
 </script> 
+<script>
+  var seconds = 1000;
+  var minutes = seconds * 60;
+  var hours = minutes * 60;
+  var days = hours * 24;
+  var years = days * 365;
+  var birthDay = Date.UTC(2019,06,09,00,00,00); // 这里设置建站时间
+  setInterval(function() {
+    var today = new Date();
+    var todayYear = today.getFullYear();
+    var todayMonth = today.getMonth()+1;
+    var todayDate = today.getDate();
+    var todayHour = today.getHours();
+    var todayMinute = today.getMinutes();
+    var todaySecond = today.getSeconds();
+    var now = Date.UTC(todayYear,todayMonth,todayDate,todayHour,todayMinute,todaySecond);
+    var diff = now - birthDay;
+    var diffYears = Math.floor(diff/years);
+    var diffDays = Math.floor((diff/days)-diffYears*365);
+    var diffHours = Math.floor((diff-(diffYears*365+diffDays)*days)/hours);
+    var diffMinutes = Math.floor((diff-(diffYears*365+diffDays)*days-diffHours*hours)/minutes);
+    var diffSeconds = Math.floor((diff-(diffYears*365+diffDays)*days-diffHours*hours-diffMinutes*minutes)/seconds);
+      document.getElementById('showDays').innerHTML="本站已运行 "+diffYears+" 年 "+diffDays+" 天 "+diffHours+" 小时 "+diffMinutes+" 分钟 "+diffSeconds+" 秒";
+  }, 1000);
+</script>
 
 
         
