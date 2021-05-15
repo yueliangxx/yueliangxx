@@ -3,6 +3,14 @@ const ap = new APlayer({
     fixed: true,   
     autoplay: true,  
     audio: [
+	  {
+        name: '江南',
+        artist: '林俊杰-第二天堂',
+        url: 'http://music.163.com/song/media/outer/url?id=108914.mp3',
+        cover: 'http://p1.music.126.net/_74nl7jryajOUHpAT0kj4w==/109951165628173300.jpg?',
+      },
+    ]
+});
 	 {
 		name: '红色高跟鞋',
 		artist: '杜航',
