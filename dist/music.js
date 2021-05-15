@@ -3,19 +3,11 @@ const ap = new APlayer({
     fixed: true,   
     autoplay: true,  
     audio: [
-	  {
-        name: '江南',
-        artist: '林俊杰-第二天堂',
-        url: 'http://music.163.com/song/media/outer/url?id=108914.mp3',
-        cover: 'http://p1.music.126.net/_74nl7jryajOUHpAT0kj4w==/109951165628173300.jpg?',
-      },
-    ]
-});
 	 {
-		name: '红色高跟鞋',
-		artist: '杜航',
-		url: 'http://music.163.com/song/media/outer/url?id=864043623.mp3',
-		cover: 'http://p2.music.126.net/IZ5hcrme7k-xNG4gzw-NPg==/109951164627195322.jpg?',
+        name: '红色高跟鞋',
+        artist: '杜航',
+        url: 'http://music.163.com/song/media/outer/url?id=864043623.mp3',
+        cover: 'http://p2.music.126.net/IZ5hcrme7k-xNG4gzw-NPg==/109951164627195322.jpg?',
 	 },
 	  {
         name: '迪士尼在逃公主',
